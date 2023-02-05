@@ -1567,7 +1567,7 @@
   top: 0;
   width: 250px;
   height: 250px;
-  background: url("https://i.imgur.com/kXYH7Sp.png") no-repeat;
+  background: ("https://www.pngitem.com/pimgs/b/28-287287_dragon-vector-png.png") no-repeat;
   background-size: 100%;
 }
 :root .app-3xd6d0::after {
@@ -1576,7 +1576,7 @@
   bottom: 0;
   width: 490px;
   height: 40px;
-  background: url("https://i.imgur.com/kXYH7Sp.png") no-repeat;
+  background: url("") no-repeat;
   background-size: 100%;
 }
 :root .app-2CXKsg::before {
@@ -1584,7 +1584,7 @@
   right: 116px;
   width: 200px;
   height: 120px;
-  background: url("https://www.pngfind.com/pngs/m/75-752457_dragonballs-png-dragon-ball-z-seven-dragon-balls.png") no-repeat;
+  background: url("https://www.pngitem.com/pimgs/b/534-5347311_dragon-ball-png.png") no-repeat;
   background-size: 100%;
 }
 @media (max-width: 1350px) {
